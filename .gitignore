@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# except these
+!.gitignore
+!band-names.txt
+!name-context.txt
+!README.md
