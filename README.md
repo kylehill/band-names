@@ -6,6 +6,7 @@ If, for whatever reason, you're inspired by this list and decide to adopt someth
 
 #### You can add to the list by submitting a PR!  Some rules, because I can:
 
+* Please make your commit message the band name to be added to the list.
 * Please only append new names to the end of the list -- there is something of a chronology in here that's sentimental to me.  
 * Include the context of where your name came from in `name-context.txt`!  I would *love* a full story if you're up to it, but a short sentence or a particular quote taken hilariously out of context is also great.
 
