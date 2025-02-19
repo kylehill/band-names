@@ -759,3 +759,9 @@ From a collection of cocktail names, seen here: https://www.dropbox.com/scl/fi/k
 Sparkling Homunculus
 ----
 https://www.dropbox.com/scl/fi/n0u8jwkg9so1tt5ip3ld4/SparklingHomunculus.jpg
+
+----
+Statistically Unlikely Tortellini
+----
+Kate: I heard about the tortellini from Stacey and they sound delicious, but what is statistically unlikely about them?
+Gray: They made exactly one a different shape than the others. When they pulled a random one out of the pot to check if it was done, they pulled the odd-shaped one.
