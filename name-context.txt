@@ -818,3 +818,8 @@ Forklift Faggots
 w/r/t this image: https://www.dropbox.com/scl/fi/rdkaq5tn66lgbbgrwjhrs/ForkliftFaggots.jpg
 
 Gray: This, but for dudes.
+
+----
+Continuously Stirred Rat
+----
+Gray: My first encounter with PBPK modeling, when I realized the whole principle was literally just "assume the rat is a chemical reactor and its organs are continuously stirred tanks."
